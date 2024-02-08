@@ -1,0 +1,37 @@
+[
+	{
+		"Name": "aka",
+		"Type": "oke",
+		"Size": 1.6,
+		"Replace": 1,
+		"Move": 1
+	},
+	{
+		"Name": "shin_2",
+		"Type": "oke",
+		"Size": 2,
+		"Replace": 1,
+		"Move": 1
+	},
+	{
+		"Name": "kou",
+		"Type": "miya",
+		"Size": 1.9,
+		"Replace": 2,
+		"Move": 1
+	},
+	{
+		"Name": "izumi",
+		"Type": "shime",
+		"Size": 1,
+		"Replace": 2,
+		"Move": 2
+	},
+	{
+		"Name": "oohira",
+		"Type": "oodaiko",
+		"Size": 3,
+		"Replace": 3,
+		"Move": 1
+	}
+]

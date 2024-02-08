@@ -1,0 +1,58 @@
+[
+	{
+		"Player":"player_0",
+		"Task":[
+			{
+				"Taiko":"oohira",
+				"Task":"Replace"
+			},			{
+				"Taiko":"oohira",
+				"Task":"Move"
+			}
+		]
+	},	{
+		"Player":"player_1",
+		"Task":[
+			{
+				"Taiko":"shin_2",
+				"Task":"Replace"
+			},			{
+				"Taiko":"shin_2",
+				"Task":"Move"
+			}
+		]
+	},	{
+		"Player":"player_2",
+		"Task":[
+			{
+				"Taiko":"oohira",
+				"Task":"Replace"
+			},			{
+				"Taiko":"kou",
+				"Task":"Move"
+			}
+		]
+	},	{
+		"Player":"player_3",
+		"Task":[
+			{
+				"Taiko":"oohira",
+				"Task":"Replace"
+			},			{
+				"Taiko":"izumi",
+				"Task":"Move"
+			}
+		]
+	},	{
+		"Player":"player_4",
+		"Task":[
+			{
+				"Taiko":"aka",
+				"Task":"Replace"
+			},			{
+				"Taiko":"aka",
+				"Task":"Move"
+			}
+		]
+	}
+]

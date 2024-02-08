@@ -1,0 +1,52 @@
+[
+	{
+		"Name" : "player_0",
+		"Greade" : 12,
+		"Base_operation" : 1,
+		"Replace_shime" : 2,
+		"Move_shime" : 2,
+		"Replace_miya" : 1,
+		"Replace_oodaiko" : 1,
+		"Move_oodaiko" : 1
+	},
+	{
+		"Name" : "player_1",
+		"Greade" : 11,
+		"Base_operation" : 1,
+		"Replace_shime" : 1,
+		"Move_shime" : 1,
+		"Replace_miya" : -1,
+		"Replace_oodaiko" : -1,
+		"Move_oodaiko" : 0
+	},
+	{
+		"Name" : "player_2",
+		"Greade" : 10,
+		"Base_operation" : 1,
+		"Replace_shime" : 0,
+		"Move_shime" : 0,
+		"Replace_miya" : 2,
+		"Replace_oodaiko" : 2,
+		"Move_oodaiko" : 2
+	},
+	{
+		"Name" : "player_3",
+		"Greade" : 10,
+		"Base_operation" : 1,
+		"Replace_shime" : 2,
+		"Move_shime" : 2,
+		"Replace_miya" : 1,
+		"Replace_oodaiko" : 0,
+		"Move_oodaiko" : 1
+	},
+	{
+		"Name" : "player_4",
+		"Greade" : 10,
+		"Base_operation" : 1,
+		"Replace_shime" : 0,
+		"Move_shime" : 1,
+		"Replace_miya" : 0,
+		"Replace_oodaiko" : 0,
+		"Move_oodaiko" : 1
+	}
+]
